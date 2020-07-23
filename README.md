@@ -1,2 +1,2 @@
 # Hackerrank-Solutions
-This is for those who is practicing in hackerrank 
+This is for those who is practicing in hackerrank.
